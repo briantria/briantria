@@ -1,6 +1,8 @@
 ### You can call me Bao.
 
-I'm still thinking of what to add here. I'm currently working on native mobile apps but doing some personal Unity projects on the side.
+I'm still thinking of what else to add in here.
+
+I'm currently working on native mobile apps but doing some personal Unity projects on the side.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briantria)](https://github.com/anuraghazra/github-readme-stats)
 
