@@ -1,12 +1,17 @@
-### You can call me Bao.
+### Hi there 👋
 
-I'm still thinking of what else to add in here.
-
-I'm currently working on native mobile apps but doing some personal Unity projects on the side.
+- 🎓 I'm a BS Computer Science graduate
+- 🔭 I’m currently working at [Intechnics](http://www.intechnics.net/) as a Unity Developer
+- 📱  I also know Kotlin and Swift
+- 🌏 Check some of my work at [briantria.com](https://www.briantria.com/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briantria)](https://github.com/anuraghazra/github-readme-stats)
 
+_This repository is a collection of my side projects and game jam entries._
+
 <!--
+emojis: https://gist.github.com/rxaviers/7360908
+
 ### Hi there 👋
 
 **briantria/briantria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
