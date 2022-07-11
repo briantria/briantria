@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🎓 I'm a BS Computer Science graduate
-- 🔭 I’m currently working at [Intechnics](http://www.intechnics.net/) as a Unity Developer
+- 🔭 I’m currently working at [EastSide Games](https://www.eastsidegames.com/) as a Senior Game Developer
 - 📱  I also know Kotlin and Swift
 - 🌏 Check some of my work at [briantria.com](https://www.briantria.com/)
 
