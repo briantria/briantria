@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🎓 I'm a BS Computer Science graduate
 - 🔭 I’m currently working at [EastSide Games](https://www.eastsidegames.com/) as a Senior Game Developer
-- 📱  I also know Kotlin and Swift
+- 🎓 I'm a BS Computer Science graduate
 - 🌏 Check some of my work at [briantria.com](https://www.briantria.com/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briantria)](https://github.com/anuraghazra/github-readme-stats)
