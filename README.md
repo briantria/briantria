@@ -1,7 +1,6 @@
 ### Hi there 👋
-
-- 🔭 I’m currently working at [EastSide Games](https://www.eastsidegames.com/) as a Senior Game Developer
-- 🎓 I'm a BS Computer Science graduate
+- :computer: Mobile app/game developer
+- 🎓 BS Computer Science graduate
 - 🌏 Check some of my work at [briantria.com](https://www.briantria.com/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briantria)](https://github.com/anuraghazra/github-readme-stats)
@@ -9,7 +8,12 @@
 _This repository is a collection of my side projects and game jam entries._
 
 <!--
-emojis: https://gist.github.com/rxaviers/7360908
+EXPERIENCE:
+- 🔭 I’m currently working at [EastSide Games](https://www.eastsidegames.com/) as a Senior Game Developer
+-->
+
+<!--
+EMOJIS: https://gist.github.com/rxaviers/7360908
 
 ### Hi there 👋
 
